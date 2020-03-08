@@ -1,0 +1,5 @@
+19:46:59.909 [main] INFO  parameterizing.RegisteredUsersVerification - Clicked on leftnavigation Dashboard
+19:46:59.976 [main] INFO  parameterizing.RegisteredUsersVerification - print noofusers in dashboard
+19:47:00.348 [main] INFO  parameterizing.RegisteredUsersVerification - Clicked on regusers
+19:47:00.388 [main] INFO  parameterizing.RegisteredUsersVerification - Dashboard and Registered Users Pages are Matching
+20:57:33.373 [main] INFO  carrentalscript.RegisteredUsersVerification - enter keys on on username

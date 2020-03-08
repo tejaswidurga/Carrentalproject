@@ -1,0 +1,5 @@
+19:35:20.827 [TestNG-tests-1] INFO  parameterizing.BookingsVerification - click on 
+19:35:21.338 [TestNG-tests-2] INFO  parameterizing.RegisteredUsersVerification - enter keys on on username
+19:35:21.383 [TestNG-tests-1] INFO  parameterizing.BookingsVerification - click on dashboard on left navigation page
+19:35:21.491 [TestNG-tests-1] INFO  parameterizing.BookingsVerification - print noofbookings from dashboard
+19:35:21.741 [TestNG-tests-2] INFO  parameterizing.RegisteredUsersVerification - enter password  on password

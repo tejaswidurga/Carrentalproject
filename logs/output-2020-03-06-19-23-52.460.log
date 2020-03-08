@@ -1,0 +1,6 @@
+19:18:02.716 [main] INFO  carrentalscript.BookingsVerification - noof bookings from dashboard is matching
+19:23:51.421 [main] INFO  carrentalscript.BookingsVerification - enter keys on on username
+19:23:51.572 [main] INFO  carrentalscript.BookingsVerification - enter password on password
+19:23:51.906 [main] INFO  carrentalscript.BookingsVerification - click on 
+19:23:52.116 [main] INFO  carrentalscript.BookingsVerification - click on dashboard on left navigation page
+19:23:52.164 [main] INFO  carrentalscript.BookingsVerification - print noofbookings from dashboard

@@ -1,0 +1,6 @@
+18:46:20.062 [main] INFO  carrentalscript.BookingsVerification - enter keys on on username
+18:46:20.216 [main] INFO  carrentalscript.BookingsVerification - enter password on password
+18:46:20.565 [main] INFO  carrentalscript.BookingsVerification - click on 
+18:46:20.827 [main] INFO  carrentalscript.BookingsVerification - click on dashboard on left navigation page
+18:46:20.884 [main] INFO  carrentalscript.BookingsVerification - print noofbookings from dashboard
+18:46:21.200 [main] INFO  carrentalscript.BookingsVerification - click on managebookings

@@ -1,0 +1,6 @@
+19:35:23.828 [TestNG-tests-2] INFO  parameterizing.RegisteredUsersVerification - Clicked on regusers
+19:35:23.873 [TestNG-tests-2] INFO  parameterizing.RegisteredUsersVerification - Dashboard and Registered Users Pages are Matching
+19:40:26.339 [main] INFO  carrentalscript.BookingsVerification - enter keys on on username
+19:40:26.501 [main] INFO  carrentalscript.BookingsVerification - enter password on password
+19:40:27.044 [main] INFO  carrentalscript.BookingsVerification - click on 
+19:40:27.368 [main] INFO  carrentalscript.BookingsVerification - click on dashboard on left navigation page

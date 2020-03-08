@@ -1,0 +1,5 @@
+19:35:22.309 [TestNG-tests-1] INFO  parameterizing.BookingsVerification - click on managebookings
+19:35:22.394 [TestNG-tests-1] INFO  parameterizing.BookingsVerification - noof bookings from dashboard is matching
+19:35:22.549 [TestNG-tests-2] INFO  parameterizing.RegisteredUsersVerification - Clicked on login
+19:35:23.014 [TestNG-tests-2] INFO  parameterizing.RegisteredUsersVerification - Clicked on leftnavigation Dashboard
+19:35:23.102 [TestNG-tests-2] INFO  parameterizing.RegisteredUsersVerification - print noofusers in dashboard

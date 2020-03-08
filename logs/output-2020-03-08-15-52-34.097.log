@@ -1,0 +1,5 @@
+15:48:44.991 [main] INFO  carrentalscript.RegisterNewUser - Clicked on Sign Up Button
+15:48:45.013 [main] INFO  carrentalscript.RegisterNewUser - Successful Registration Alert Message is Verified Successfully
+15:48:45.032 [main] INFO  carrentalscript.RegisterNewUser - **************** Ending Regiser New User Test Case *****************
+15:52:33.117 [main] INFO  carrentalscript.RegisterNewUser - **************** Starting Regiser New User Test Case *****************
+15:52:33.253 [main] INFO  carrentalscript.RegisterNewUser - Clicked on Login / Register Button

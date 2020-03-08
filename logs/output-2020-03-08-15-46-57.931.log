@@ -1,0 +1,5 @@
+15:28:06.083 [main] INFO  carrentalscript.RegisterNewUser - **************** Ending Regiser New User Test Case *****************
+15:46:56.396 [main] INFO  carrentalscript.RegisterNewUser - **************** Starting Regiser New User Test Case *****************
+15:46:56.558 [main] INFO  carrentalscript.RegisterNewUser - Clicked on Login / Register Button
+15:46:57.379 [main] INFO  carrentalscript.RegisterNewUser - Clicked on Sign Up Link
+15:46:57.764 [main] INFO  carrentalscript.RegisterNewUser - Entered Full Name in Full Name Text Box

@@ -1,0 +1,5 @@
+15:28:05.412 [main] INFO  carrentalscript.RegisterNewUser - Entered Email Address in Email Address Text Box
+15:28:05.598 [main] INFO  carrentalscript.RegisterNewUser - Entered Password in Password Text Box
+15:28:05.745 [main] INFO  carrentalscript.RegisterNewUser - Entered Password in Confirm Password Text Box
+15:28:06.043 [main] INFO  carrentalscript.RegisterNewUser - Clicked on Sign Up Button
+15:28:06.074 [main] INFO  carrentalscript.RegisterNewUser - Successful Registration Alert Message is Verified Successfully

@@ -1,0 +1,5 @@
+16:06:02.426 [main] INFO  carrentalscript.RegisterNewUser - Clicked on Sign Up Link
+16:06:02.475 [main] INFO  carrentalscript.RegisterNewUser - Entered Full Name in Full Name Text Box
+16:06:17.830 [main] INFO  carrentalscript.RegisterNewUser - Entered Mobile Number in Mobile Number Text Box
+16:06:18.106 [main] INFO  carrentalscript.RegisterNewUser - Entered Email Address in Email Address Text Box
+16:06:18.321 [main] INFO  carrentalscript.RegisterNewUser - Entered Password in Password Text Box

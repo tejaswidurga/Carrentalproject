@@ -1,0 +1,6 @@
+12:03:27.255 [main] INFO  carRentalPages.AdmingLogin - enter password on password
+12:03:27.794 [main] INFO  carRentalPages.AdmingLogin - click on 
+12:03:28.146 [main] INFO  carrentalscript.BookingsVerification - click on dashboard on left navigation page
+12:03:28.203 [main] INFO  carrentalscript.BookingsVerification - print noofbookings from dashboard
+12:03:28.598 [main] INFO  carrentalscript.BookingsVerification - click on managebookings
+12:03:28.637 [main] INFO  carrentalscript.BookingsVerification - noof bookings from dashboard is matching

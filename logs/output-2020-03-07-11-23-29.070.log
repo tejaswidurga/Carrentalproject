@@ -1,0 +1,6 @@
+11:21:24.869 [main] INFO  carrentalscript.RegisteredUsersVerification - enter password  on password
+11:21:25.649 [main] INFO  carrentalscript.RegisteredUsersVerification - Clicked on login
+11:21:26.132 [main] INFO  carrentalscript.RegisteredUsersVerification - Clicked on leftnavigation Dashboard
+11:21:26.234 [main] INFO  carrentalscript.RegisteredUsersVerification - print noofusers in dashboard
+11:21:26.943 [main] INFO  carrentalscript.RegisteredUsersVerification - Clicked on regusers
+11:21:27.023 [main] INFO  carrentalscript.RegisteredUsersVerification - Dashboard and Registered Users Pages are Matching

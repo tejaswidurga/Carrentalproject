@@ -1,0 +1,5 @@
+11:29:32.111 [main] INFO  carrentalscript.RegisteredUsersVerification - enter keys on on username
+11:29:32.458 [main] INFO  carrentalscript.RegisteredUsersVerification - enter password  on password
+11:29:33.219 [main] INFO  carrentalscript.RegisteredUsersVerification - Clicked on login
+11:29:33.799 [main] INFO  carrentalscript.RegisteredUsersVerification - Clicked on leftnavigation Dashboard
+11:29:33.952 [main] INFO  carrentalscript.RegisteredUsersVerification - print noofusers in dashboard
